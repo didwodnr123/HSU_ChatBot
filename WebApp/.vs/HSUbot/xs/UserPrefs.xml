@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{82EDAA0C-704B-4CC5-9A7C-7A3C00C9C555}|Default">
+  <MonoDevelop.Ide.ItemProperties.HSUbot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HSUbot/Dialogs/MainDialog.cs">
+    <Files>
+      <File FileName="HSUbot/Dialogs/TrackInfoCardDialog.cs" Line="83" Column="1" />
+      <File FileName="HSUbot/Dialogs/ProfessorsDialog.cs" Line="15" Column="60" />
+      <File FileName="HSUbot/Cards/ServiceCard.json" Line="9" Column="24" />
+      <File FileName="HSUbot/Cards/HelpCard.json" Line="22" Column="11" />
+      <File FileName="HSUbot/Details/TrackInfoCardDetail.cs" Line="1" Column="1" />
+      <File FileName="HSUbot/Dialogs/MainDialog.cs" Line="82" Column="36" />
+      <File FileName="HSUbot/Bots/HSUbot.cs" Line="54" Column="73" />
+      <File FileName="HSUbot/Program.cs" Line="16" Column="1" />
+      <File FileName="HSUbot/Program.cs" Line="16" Column="1" />
+      <File FileName="HSUbot/LuisHelper.cs" Line="1" Column="1" />
+      <File FileName="HSUbot/Controllers/BotController.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HSUbot" expanded="True">
+            <Node name="HSUbot" expanded="True">
+              <Node name="Bots" expanded="True" />
+              <Node name="Cards" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dialogs" expanded="True">
+                <Node name="MainDialog.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/Dialogs/TrackInfoCardDialog.cs" relfile="HSUbot/Dialogs/TrackInfoCardDialog.cs" line="83" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

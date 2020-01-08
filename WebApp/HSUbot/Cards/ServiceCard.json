@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://www.hansung.ac.kr/html/themes/www/img/custom/1_01_05_01_obj_7.gif",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "어서오세요 한성대학교 챗봇 서비스입니다!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "id": "aa",
+      "size": "default",
+      "isSubtle": "true",
+      "text": "아래에서 원하는 서비스를 고르시거나 직접 명령해 주세요\n\nex)학교로 가는 종로03번 버스 언제와?\n\n도움말을 보시려면 도움말 또는 help를 입력해 주세요",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+}

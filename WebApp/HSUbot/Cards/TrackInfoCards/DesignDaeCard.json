@@ -1,0 +1,912 @@
+﻿{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "디자인대학 트랙정보"
+        },
+        {
+            "type": "Image",
+            "url": "https://www.hansung.ac.kr/html/themes/www/img/custom/3_01_01_01_obj_2.jpg"
+        },
+        {
+            "type": "TextBlock",
+            "text": "트랙정보가 궁금하신가요??"
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "글로벌패션산업학부",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "패션디자인트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520908864244.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "패션디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Fashion Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "세계경제의 개방화, 글로벌화에 \n\n어울리는 실무중심의 교육영역을 \n\n넓힙니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4097/4147"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "패션마케팅트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521010514026.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "패션마케팅 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Fashion Marketing",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "패션전문가의 능력을 갖춰\n\n나가는 교육 및 마케팅분야에 \n\n집중합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4097/4147"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "패션크리에이티브디렉션트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521011730068.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "패션 크리에이티브 디렉션 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Fashion Creative Direction",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "패션스타일리스트에서 광고\n\n홍보 분야까지-창조적 \n\n커뮤니케이션에 앞장섭니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4097/4147"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "ICT디자인학부",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "뉴미디어광고·커뮤니케이션디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521012809948.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "뉴미디어광고• 커뮤니케이션 디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Newmedia Ad.ㆍ Communication Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "뉴미디어 시대의 패러다임이 \n\n요구하는 광고 및 마케팅의 변화를\n\n 선도합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4157"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "영상·애니메이션디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521014494692.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "영상ㆍ 애니메이션 디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Time Based Mediaㆍ Animation Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "디지털 융합시대에 부가가치 \n\n창출을 위한 핵심성장동력인 \n\n영상ㆍ애니메이션을 다룹니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4422/5850"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "제품·서비스디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521074441132.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "제품ㆍ 서비스디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Product & Service Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "IoT, AI, 3D프린팅 등 4차 \n\n산업혁명의 다양한 기술이 접목된 \n\n혁신적 디자인을 개발합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4422"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "브랜드·패키지디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521075377574.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "브랜드ㆍ 패키지디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "BrandㆍPackage Design Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "제품과 소비자의 \n\n커뮤니케이션을 극대화할 수 있는 \n\n트렌디한 컨셉을 주도합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4157"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "인테리어·코디디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521076512849.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "인테리어ㆍ 코디디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Interior Designㆍ Coordination",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "디자인 관련 핵심교육과정을 \n\n통해 창조적인 실무형 \n\n실내 디자이너를 육성합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4476"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "VMD·전시디자인 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521077243988.jpg"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "VMDㆍ 전시디자인 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "VMDㆍExhibition Design",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "브랜드를 이해하고 마케팅\n\n전략에 따라 VMD를 \n\n적용시킬 수 있는 실무능력을 \n\n배양합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4476"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "게임일러스트레이션 트랙 소개",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521078101778.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "게임 일러스트레이션 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Game Illustration",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "게임분야에 대한 전반적인 \n\n이해와 함께 실무와 결합된 \n\n게임 프로젝트를 직접 수행합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4422"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "뷰티디자인매니지먼트학과",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "뷰티디자인매니먼트학과",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521079020738.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "뷰티디자인 매니지먼트 학과",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Beauty Design Management",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "뷰티디자인, 뷰티헤어, \n\n뷰티메이크업, 뷰티컨설팅을 통해 \n\n뷰티 디자인 역량을 키워 \n\n실무능력을 배양합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4199"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "*홈페이지 바로가기*",
+            "url": "http://hansung.ac.kr/web/www/852"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

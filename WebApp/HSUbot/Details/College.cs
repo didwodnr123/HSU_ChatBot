@@ -1,0 +1,1 @@
+﻿using System; using System.Diagnostics; using System.Linq; using System.Text; using System.Threading.Tasks;  namespace HSUbot {     [DebuggerDisplay("{Major}")]     public class College     {         public string Major { get; set; }         public string Info { get; set; }         public string SubTrack { get; set; }     } }   

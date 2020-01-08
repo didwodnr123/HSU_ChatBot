@@ -1,0 +1,344 @@
+﻿{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "도움말",
+            "size": "ExtraLarge",
+            "horizontalAlignment": "Center"
+        },
+        {
+            "type": "TextBlock",
+            "text": "저희 챗봇은 자연어 처리에 기반한 지능적 챗봇입니다. 질문자의 의도를 파악하여 질문 속에 담긴 의도와 관련된 요소들을 같이 뽑아내어 적합한 답변을 보내줍니다. 평소에 대화하시듯이 질문해 주시면 됩니다.",
+            "spacing": "Small",
+            "horizontalAlignment": "Left",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "text": "예시"
+        },
+        {
+            "type": "FactSet",
+            "facts": [
+                {
+                    "title": "질문",
+                    "value": "학술정보관 전화번호 알려줘"
+                },
+                {
+                    "title": "답변",
+                    "value": "학술정보관의 전화번호는 02-760-4283 입니다"
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": "제공되는 서비스들에 대하여 더 자세한 내용들을 확인하고 싶으시면 아래 버튼을 눌러주십시시오",
+            "wrap": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.ShowCard",
+            "title": "서비스 보기",
+            "card": {
+                "type": "AdaptiveCard",
+                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                "actions": [
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "버스정보 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "학교와 역을 지나가는 성북02번과 종로03번에 대한 위치를 알려줍니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "학교로가는 종로03번 버스 언제와?"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "창신역에 도착하는 첫번째 버스는 5분 후, 두번째 버스는 10분후에 도착합니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "트랙정보 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "트랙에 대한 정보를 간략하게 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "사이버보안트랙이 궁금해"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "통신망에서 발생하는 정보 누출, 도청, 정보 변조 등을 예방하고 대응하는 법을 배웁니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "교내부서 전화번호 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "교내 부서의 전화번호를 알려줍니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "학술정보관 전화번호 뭐야?"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "학술정보관 전화번호는 02-760-XXXX 입니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "교수님 정보 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "교수님의 연구실위치 / 전화번호 / 이메일 등 다양한 정보를 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "000교수님 연구실 위치가 어디지?"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "000교수님 연구실 위치는 연구동 206호 입니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "미세먼지 자세히 보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "원하는 지역의 미세먼지 정보를 알려줍니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "성북구 미세먼지 어느정도야?"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "금일 성북구 미세먼지는 나쁨입니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "공지사항 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "한성공지, 학사공지, 비교과공지, 장학공지 링크를 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "공지사항 보여줘!"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "한성공지:https://www.hansung.ac.kr/web/www/cmty_01_01학사공지:https://www.hansung.ac.kr/web/www/cmty_01_03"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "장학제도 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "장학제도에 대한 링크를 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "우리학교 장학제도가 궁금해!!"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "https://www.hansung.ac.kr/web/www/life_02_01_t1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "날씨 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "서울시 지역별 날씨정보를 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "오늘 성북구 날씨 어때?"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "서울시 성북구 기온 20도 비 올 확률 20%입니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "개인 시간표 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "개인 시간표를 조회해서 알려줍니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "오늘 시간표 보여줘!!"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "개인시간표가 제공됩니다."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "Action.ShowCard",
+                        "title": "열람실 자리조회 자세히보기",
+                        "card": {
+                            "type": "AdaptiveCard",
+                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                            "body": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "미래관 열람실 빈 자리 조회 기능을 제공합니다.",
+                                    "size": "Medium",
+                                    "wrap": true
+                                },
+                                {
+                                    "type": "FactSet",
+                                    "facts": [
+                                        {
+                                            "title": "질문",
+                                            "value": "열람실 자리 조회해줘!!"
+                                        },
+                                        {
+                                            "title": "답변",
+                                            "value": "사용중인 좌석 : 50석, 빈 좌석 : 189석"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

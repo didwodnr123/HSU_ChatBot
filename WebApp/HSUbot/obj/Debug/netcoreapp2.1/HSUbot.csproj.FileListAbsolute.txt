@@ -1,0 +1,15 @@
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/HSUbot.deps.json
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/HSUbot.runtimeconfig.json
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/HSUbot.runtimeconfig.dev.json
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/HSUbot.dll
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/bin/Debug/netcoreapp2.1/HSUbot.pdb
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.csprojAssemblyReference.cache
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.csproj.CoreCompileInputs.cache
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.RazorAssemblyInfo.cache
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.RazorAssemblyInfo.cs
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.AssemblyInfoInputs.cache
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.AssemblyInfo.cs
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.RazorTargetAssemblyInfo.cache
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.dll
+/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/Debug/netcoreapp2.1/HSUbot.pdb

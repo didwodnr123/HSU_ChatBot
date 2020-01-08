@@ -1,0 +1,1116 @@
+﻿{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "크리에이티브 인문예술대학 트랙정보"
+        },
+        {
+            "type": "Image",
+            "url": "https://www.hansung.ac.kr/html/themes/www/img/custom/3_01_01_01_obj_2.jpg"
+        },
+        {
+            "type": "TextBlock",
+            "text": "트랙정보가 궁금하신가요??"
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "크리에이티브 인문학부",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "영미문학문화트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520399161914.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "영미문학 문화 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "English Literature & Culture",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "급변하는 국제사회의 요구에 \n\n부합하는 다양한 글로벌 마인드를 \n\n일깨웁니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4027"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "영미언어정보트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520839168189.jpg"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "영미언어 정보 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "English Language & Linguistics",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "국제적 감각을 지닌 실용적이고\n\n탄탄한 외국어 구사능력을\n\n함양합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4027"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "한국어교육트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520841809889.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "한국어 교육 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Korean Language Education",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "증가하는 한류의 영향 속에서 \n\n해외 및 국내 체류 외국인에게 \n\n필요한 한국어 교육 전문가를 \n\n키웁니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4017"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "문학문화콘텐츠트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520843402507.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "문학문화 콘텐츠 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Korean Literature & Culture Contents",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "국어국문학전공에서 문학\n\n분야를 독립·심화시켜 새로운 \n\n문화콘텐츠분야를 만듭니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4017"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "글로컬역사트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520899719097.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "글로컬 역사 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Glocal History",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "한국사·동아시아사·서양사에 \n\n대한 전문 지식은 물론 세계를 \n\n보는 안목을 기릅니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4037"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "역사문화콘텐츠트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520900630322.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "역사문화 콘텐츠 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Historical and Cultural contents",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "역사와 문화예술에 대한 전문적 \n\n식견을 바탕으로 역사 문화적 \n\n사실을 재창조합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4037"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "도서관정보문화트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520901161357.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "도서관 정보문화 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Library & Information Culture",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "지적 자유를 지지하는 도서관의 \n\n본질에 대한 이해를 바탕으로 \n\n인류 문화를 계승합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4087"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "디지털인문정보학트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520901674291.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "디지털 인문정보학 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Digital Humanities",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "인문학에 디지털기술을 \n\n적용하여 세상에 없던 \n\n문화콘텐츠를 기획·가공합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4087"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "예술학부",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "동양화전공",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520902839047.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "동양화 전공",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Oriental Painting",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "미술문화전통을 올바로 \n\n이해하고 이를 토대로 자기 경영\n\n능력까지 갖춘 창의적 예술가를 \n\n배출합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4117"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "서양화전공",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520903456449.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "서양화 전공",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Western Painting",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "미술문화전통을 올바로 \n\n이해하고 이를 토대로 자기 \n\n경영능력까지 갖춘 창의적 \n\n예술가를 배출합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4117"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "한국무용전공",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520906010260.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "한국무용 전공",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Korean Dance",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "용지도자를 위한 무용 및 예술 \n\n분야의 다채롭고 체계적인 \n\n교육과정을 제공합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4107"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "현대무용전공",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520920079202.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "현대무용 전공",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Modern Dance",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "무용지도자를 위한 무용 및 \n\n예술 분야의 다채롭고 체계적인 \n\n교육과정을 제공합니다.\n"
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4107"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "actions": [
+                            {
+                                "type": "Action.ShowCard",
+                                "title": "발레전공",
+                                "card": {
+                                    "type": "AdaptiveCard",
+                                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                    "body": [
+                                        {
+                                            "type": "Container",
+                                            "items": [
+                                                {
+                                                    "type": "ColumnSet",
+                                                    "columns": [
+                                                        {
+                                                            "type": "Column",
+                                                            "width": "stretch",
+                                                            "items": [
+                                                                {
+                                                                    "type": "ColumnSet",
+                                                                    "columns": [
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "width": "stretch",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "Image",
+                                                                                    "altText": "",
+                                                                                    "horizontalAlignment": "Center",
+                                                                                    "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520921603324.png"
+                                                                                }
+                                                                            ],
+                                                                            "verticalContentAlignment": "Center"
+                                                                        },
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "width": "stretch",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "FactSet",
+                                                                                    "facts": [
+                                                                                        {
+                                                                                            "title": "발레 전공",
+                                                                                            "value": ""
+                                                                                        },
+                                                                                        {
+                                                                                            "title": "Ballet",
+                                                                                            "value": ""
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "TextBlock",
+                                                                                    "text": "무용지도자를 위한 무용 및 \n\n예술 분야의 다채롭고 체계적인 \n\n교육과정을 제공합니다."
+                                                                                },
+                                                                                {
+                                                                                    "type": "TextBlock",
+                                                                                    "text": "트랙 문의처 02-760-4107"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "type": "Action.ShowCard",
+                                "title": "이민ㆍ다문화 트랙",
+                                "card": {
+                                    "type": "AdaptiveCard",
+                                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                    "body": [
+                                        {
+                                            "type": "Container",
+                                            "items": [
+                                                {
+                                                    "type": "ColumnSet",
+                                                    "columns": [
+                                                        {
+                                                            "type": "Column",
+                                                            "width": "stretch",
+                                                            "items": [
+                                                                {
+                                                                    "type": "ColumnSet",
+                                                                    "columns": [
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "width": "stretch",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "Image",
+                                                                                    "altText": "",
+                                                                                    "horizontalAlignment": "Center",
+                                                                                    "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1546581167458.png"
+                                                                                }
+                                                                            ],
+                                                                            "verticalContentAlignment": "Center"
+                                                                        },
+                                                                        {
+                                                                            "type": "Column",
+                                                                            "width": "stretch",
+                                                                            "items": [
+                                                                                {
+                                                                                    "type": "FactSet",
+                                                                                    "facts": [
+                                                                                        {
+                                                                                            "title": "이민ㆍ 다문화 트랙",
+                                                                                            "value": ""
+                                                                                        },
+                                                                                        {
+                                                                                            "title": "Migaration and Multicure",
+                                                                                            "value": ""
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "TextBlock",
+                                                                                    "text": "타문화를 받아들이고 포용하는 \n\n마음과 국제적인 열린 시각을 \n\n갖춥니다."
+                                                                                },
+                                                                                {
+                                                                                    "type": "TextBlock",
+                                                                                    "text": "트랙 문의처 02-760-4268"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "*홈페이지 바로가기*",
+            "url": "https://www.hansung.ac.kr/web/www/850"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

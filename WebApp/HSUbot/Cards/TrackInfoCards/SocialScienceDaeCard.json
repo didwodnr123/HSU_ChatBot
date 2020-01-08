@@ -1,0 +1,880 @@
+﻿{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "사회과학대학 트랙정보"
+        },
+        {
+            "type": "Image",
+            "url": "https://www.hansung.ac.kr/html/themes/www/img/custom/3_01_01_01_obj_2.jpg"
+        },
+        {
+            "type": "TextBlock",
+            "text": "트랙정보가 궁금하신가요??"
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "사회과학부",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                        "body": [
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "국제무역트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520907200226.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "국제무역 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Global Trade",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "학문과 산업의 구분과 경계가 \n\n불분명해지는 융합시대로의 \n\n산업 특성을 이해합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4057"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "글로벌비즈니스트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/A5swzfhiPg8=/1520992299254.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "글로벌 비즈니스 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Global Business",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "글로벌비즈니스의 전반적인 \n\n교육을 통해 모든 기업문제의 \n\n솔루션을 이끕니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4057"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "기업·경제분석트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1520995093110.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "기업ㆍ경제 분석트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Business& Economy Analysis",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "기존 경제학에 \n\n정보통신미디어산업 및 \n\n4차 산업과 관련한 다양한 지식을 \n\n접목시킵니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4067"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "금융·데이터분석트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1520995860085.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "금융ㆍ 데이터 분석트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Finance & Data Analysis",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "경제이론의 기초를 바탕으로 \n\n빅데이터에 기반한\n\n 데이터 분석기술을 학습합니다.\n"
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4607"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "공직진출트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1520998066950.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "공직진출 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Public Service",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "행정현상에 대한 체계적인 \n\n교육과정을 통해 각 분야의 \n\n공직 전문성을 배양합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4077"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "법&정책트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521001017664.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "법&정책 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Law & Policy",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "정의 안에서 바람직한 사회를 \n\n구현하기 위한 법학과 \n\n정책학을 공부합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4077"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "부동산자산관리트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521002616325.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "부동산 자산관리 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Real Estate Asset Management",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "전 국토의 86.7%를 차지하고 \n\n있는 부동산에 대한 전문적 지식을\n\n 획득합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4427"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "스마트도시계획ㆍ환경비즈니스트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521003479807.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "스마트 도시계획ㆍ 환경비즈니스 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Urban Planning& Environment Business",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "과거와 현재, 미래가 공존하는 \n\n스마트한 도시의 진화를 \n\n이끌어갑니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-8017"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "기업경영트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521005063969.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "기업경영 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Business Management",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "모든 경영조직의 경영현상에 \n\n관한 이론과 응용 소거에서 \n\n현장실무능력을 강화합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4047"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "벤처경영트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521005973264.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "벤처경영 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Venture Management",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "벤처 및 혁신기업의 취업과 \n\n창업에 필요한 창의적 \n\n전문경영능력 향상을 도모합니다.\n"
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4047"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "ActionSet",
+                                "actions": [
+                                    {
+                                        "type": "Action.ShowCard",
+                                        "title": "회계·재무경영트랙",
+                                        "card": {
+                                            "type": "AdaptiveCard",
+                                            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                            "body": [
+                                                {
+                                                    "type": "Container",
+                                                    "items": [
+                                                        {
+                                                            "type": "ColumnSet",
+                                                            "columns": [
+                                                                {
+                                                                    "type": "Column",
+                                                                    "width": "stretch",
+                                                                    "items": [
+                                                                        {
+                                                                            "type": "ColumnSet",
+                                                                            "columns": [
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "Image",
+                                                                                            "altText": "",
+                                                                                            "horizontalAlignment": "Center",
+                                                                                            "url": "http://hansung.ac.kr/portlet-repositories/fckeditor/images/LOsRegSt1Gg=/1521009166706.png"
+                                                                                        }
+                                                                                    ],
+                                                                                    "verticalContentAlignment": "Center"
+                                                                                },
+                                                                                {
+                                                                                    "type": "Column",
+                                                                                    "width": "stretch",
+                                                                                    "items": [
+                                                                                        {
+                                                                                            "type": "FactSet",
+                                                                                            "facts": [
+                                                                                                {
+                                                                                                    "title": "회계ㆍ 재무경영 트랙",
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                {
+                                                                                                    "title": "Accounting & Financial Management",
+                                                                                                    "value": ""
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "회계ㆍ재무ㆍ세무ㆍ금융 등을 \n\n융합한 전공과목의 단계별 \n\n교육과정을 이수합니다."
+                                                                                        },
+                                                                                        {
+                                                                                            "type": "TextBlock",
+                                                                                            "text": "트랙 문의처 02-760-4047"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "style": "positive"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "*홈페이지 바로가기*",
+            "url": "http://hansung.ac.kr/web/www/851"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}
