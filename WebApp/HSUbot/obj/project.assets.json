@@ -13295,11 +13295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/HSUbot.csproj",
+      "projectUniqueName": "/Users/yangjaeug/Desktop/Jaeuk/HSU_ChatBot/WebApp/HSUbot/HSUbot.csproj",
       "projectName": "HSUbot",
-      "projectPath": "/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/HSUbot.csproj",
+      "projectPath": "/Users/yangjaeug/Desktop/Jaeuk/HSU_ChatBot/WebApp/HSUbot/HSUbot.csproj",
       "packagesPath": "/Users/yangjaeug/.nuget/packages/",
-      "outputPath": "/Users/yangjaeug/Desktop/Jaeuk/WebApp/HSUbot/obj/",
+      "outputPath": "/Users/yangjaeug/Desktop/Jaeuk/HSU_ChatBot/WebApp/HSUbot/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -13354,6 +13354,7 @@
             "version": "[4.5.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -13368,10 +13369,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
